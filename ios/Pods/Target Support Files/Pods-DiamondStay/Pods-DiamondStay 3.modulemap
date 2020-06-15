@@ -1,0 +1,6 @@
+module Pods_DiamondStay {
+  umbrella header "Pods-DiamondStay-umbrella.h"
+
+  export *
+  module * { export * }
+}

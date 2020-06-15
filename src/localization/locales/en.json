@@ -1,0 +1,77 @@
+{
+    "add" : "Add Item",
+    "endota" : "Endota",
+    "signout" : "Sign Out",
+    "yetLogin" : "Sign in to sync across devices",
+    "yourList" : "Your List",
+    "logout": "Log Out",
+    "logoutMessage": "Are you sure you want to logout?",
+    "done": "Done",
+    "save": "Save",
+    "ok": "Ok",
+    "cancel": "Cancel",
+    "success": "Success",
+    "error": "Error",
+    "warning": "Warning",
+    "delete": "Delete",
+    "alert": "Alert",
+    "signIn": "Sign in",
+    "useEmail": "Or use your Email",
+    "reminderOn": "Reminders ON",
+    "time": "Time",
+    "tap" : "Tap on the gear icon to get started",
+    "tapUser" : "Tap on the user icon to setup your list",
+    "skip" : "Skip",
+    "visit": "Visit endota",
+    "quote": "“The ground of certainty on which we can surely rest amid all the incidents of life, is the mathematical exactitude of the moral law.”",
+    "snooze": "Snooze",
+    "stop": "Stop",
+    "gotIt": "Got it",
+    "Skip:":"Skip",
+    "playService":"Play services not available or outdated",
+    "cannotLogin":"Sorry. You can not login with google",
+    "version":"version",
+    "noInternet":"No internet connection",
+    "message" : "Login with Apple is not supported on this device. Currently it works on iOS devices running iOS 13 or later.",
+    "notLoginApple" : "Sorry. You can not login with Apple at this moment",
+    "setting": {
+        "settings": "Settings",
+        "managerReminder": "Manager Reminders",
+        "deselectedAll": "Deselect All",
+        "saveSettingSuccess": "Your settings has been updated!",
+        "saveSettingFailed": "Your settings update failed!",
+        "deleteReminderSuccess": "This reminder has been deleted!",
+        "deleteReminderFailed": "Delete reminder has been failed",
+        "confirmDeleteReminder": "Are you sure to delete this reminder?"
+    },
+    "customReminder" : {
+        "saveReminderSuccess" : "Your Reminder has been added!",
+        "saveReminderFail" : "Your Reminder added failed!"
+    },
+    "alarm": {
+        "repeat": "Repeat",
+        "sound": "Sound",
+        "snooze": "Snooze",
+        "alarmOff": "Turn Alarm Off",
+        "alarmOn": "Turn Alarm On",
+        "saveSuccess": "Your alarm has been updated!",
+        "saveFailed": "Your alarm update failed!"
+    },
+    "reminder": {
+        "new": "Custom Reminder",
+        "reminderTitle" : "Enter reminder name",
+        "reminderBody" : "Enter body text",
+        "start": "Start Time",
+        "end": "End Time",
+        "period": "Period",
+        "add": "Add Photo",
+        "saveSuccess": "Your reminder has been updated!",
+        "saveFailed": "Your reminder update failed!"
+    },
+    "meditation": {
+        "meditation": "Meditation",
+        "saveSuccess": "Your meditation has been updated!",
+        "saveFailed": "Your meditation update failed!"
+    }
+
+}

@@ -1,0 +1,25 @@
+export default {
+    DATE_DEFAULT_FORMAT: 'DD MMM YYYY',
+    TIME_DEFAULT_FORMAT: 'HH:mm',
+    REMINDER_TIME_FORMAT: 'hh:mm A',
+    DAY_OF_WEEK: [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday",
+    ],
+    SHORT_DAY_OF_WEEK: [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun",
+    ],
+    BIT_0: "0",
+    BIT_1: "1",
+}
