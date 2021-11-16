@@ -17,7 +17,7 @@
     "@react-native-community/google-signin": "4.0.0",
     "@react-native-community/netinfo": "5.8.0",
     "@react-native-community/push-notification-ios": "^1.2.0",
-    "aws-sdk": "^2.635.0",
+    "aws-sdk": "^2.814.0",
     "axios": "0.19.2",
     "i18n-js": "3.5.1",
     "lodash": "4.17.15",
