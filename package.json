@@ -22,7 +22,7 @@
     "i18n-js": "3.5.1",
     "lodash": "4.17.15",
     "lodash.memoize": "4.1.2",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "react": "16.11.0",
     "react-native": "0.62",
     "react-native-date-picker": "2.7.2",
